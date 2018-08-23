@@ -10,4 +10,3 @@ commands:
   duel:
     usage: /<command>
     description: duel command
-	
