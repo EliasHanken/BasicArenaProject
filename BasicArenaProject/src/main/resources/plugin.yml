@@ -1,0 +1,13 @@
+name: BasicArena
+version: 1.0
+author: streafe
+main: me.streafe.basicarena
+
+commands:
+	arena:
+		usage: /<command>
+		description: arena command
+	duel:
+		usage: /<command>
+		description: duel command
+	
